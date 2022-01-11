@@ -51,9 +51,9 @@ Depois da entrada de dados e execução da célula do Colab que cotém a variáv
 
 # Relatório Técnico
 
-Para mais informações a respeito do script desenvolvimento foi feito um relatório técnico com mais detalhes e apresentados o resultados obtidos.
+Para mais informações a respeito do script desenvolvimento foi feito um relatório técnico com mais detalhes que apresentados os resultados obtidos.
 
-O relatório também encontra-se neste repositório nomeado: Relatório - Predição da Próxima Palavra em Português usando Transformers.pdf
+O relatório também encontra-se neste repositório, está no formato .pdf podendo ser baixado direto do repositótio e nomeado: Relatório - Predição da Próxima Palavra em Português usando Transformers.pdf
 
 # Referências
 

@@ -4,7 +4,7 @@ Caio Pinho e David Araújo - Deep Learning
 
 # Descrição
 
-Este repositório contém um script desenvolvido utilizando a linguagem de programação Python para fazer a previsão da próxima palavra no idioma em português usando o modelo pré-treinado BERT e treinado na língua portuguesa. Esse script pode ser executado utilizando o Google Colab ou terminal linux com as devidas configurações descritas abaixo. O código do script está no arquivo nomeado: Next_Word_Prediction_with_Transformers.ipynb.
+Este repositório contém um script desenvolvido utilizando a linguagem de programação Python para fazer a previsão da próxima palavra no idioma em português usando o modelo pré-treinado BERT e treinado na língua portuguesa. Esse script pode ser executado utilizando o Google Colab ou terminal linux com as devidas configurações descritas abaixo. O código do script está no arquivo nomeado: `Next_Word_Prediction_with_Transformers.ipynb`.
 
 O modelo BERTimbau disponibilizado pela a Neuralmind, segue o link do github para mais informações: https://github.com/neuralmind-ai/portuguese-bert ou https://neuralmind.ai/sobre/, possui dois modelos pré-treinados BERT-Base e BERT-Large Cased e foram treinadas no BrWaC (Brazilian Web as Corpus). O BrWaC é um grande corpus português, por 1.000.000 de palavras, usando máscara de palavras inteiras.
 
@@ -53,7 +53,7 @@ Depois da entrada de dados e execução da célula do Colab que cotém a variáv
 
 Para mais informações a respeito do script desenvolvimento foi feito um relatório técnico com mais detalhes que apresentados os resultados obtidos.
 
-O relatório também encontra-se neste repositório, está no formato .pdf podendo ser baixado direto do repositótio e nomeado: Relatório - Predição da Próxima Palavra em Português usando Transformers.pdf
+O relatório também encontra-se neste repositório, está no formato .pdf podendo ser baixado direto do repositótio e nomeado: `Relatório - Predição da Próxima Palavra em Português usando Transformers.pdf`
 
 # Referências
 

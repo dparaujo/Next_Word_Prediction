@@ -1,6 +1,6 @@
-# Previsão da Próxima Palavra com BERT (acadêmico)
+# Previsão da Próxima Palavra com BERT
 
-Caio Pinho e David Araújo - Deep Learning
+Deep Learning (acadêmico)
 
 # Descrição
 
